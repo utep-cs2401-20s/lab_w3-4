@@ -1,4 +1,4 @@
-# Welcome to Lab W3-4
+# Welcome to Lab W3-4!
 Welcome to your first assignment on GitHub Classroom!
 
 ## About the Repository
