@@ -24,7 +24,7 @@ There is a cheat sheet available to you in the [Piazza Resources](https://piazza
 ## GUI or Bash/Terminal?
 You are given the option to use Git via:
 - the IntelliJ IDE, which does not require any terminal command inputs, or
-- the Git bash/terminal, which does require terminal command inputs.<br />
+- the Git bash/terminal, which does require terminal command inputs.<br /><br />
 We leave the choice to you! But remember, it is always useful to know how to use Git in more than one way.<br />
 
 ## Where To Find Your Repo
